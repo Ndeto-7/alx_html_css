@@ -1,0 +1,3210 @@
+/* School Page */
+
+position: relative;
+width: 1440px;
+height: 3718px;
+
+background: #FFFFFF;
+
+
+/* part_5_footer */
+
+position: absolute;
+width: 1440px;
+height: 249px;
+left: 0px;
+top: 3469px;
+
+
+
+/* background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #071629;
+
+
+/* logo */
+
+position: absolute;
+left: 11.46%;
+right: 76.81%;
+top: 38.15%;
+bottom: 49.8%;
+
+
+
+/* SmileSchool */
+
+position: absolute;
+height: 20px;
+left: 32.54%;
+right: 0%;
+top: calc(50% - 20px/2 + 1px);
+
+font-family: 'Coiny';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 36.39px;
+height: 29.46px;
+left: 0.59px;
+top: 0.02px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 2.96%;
+right: 92.39%;
+top: 0.08%;
+bottom: 60.43%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 14.03%;
+right: 81.32%;
+top: 0.08%;
+bottom: 60.43%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 0.35%;
+right: 78.6%;
+top: 54.5%;
+bottom: 15.95%;
+
+background: #FFFFFF;
+transform: rotate(-7deg);
+
+
+/* ©smileschool 2020 */
+
+position: absolute;
+height: 15px;
+left: 46.67%;
+right: 46.67%;
+top: calc(50% - 15px/2 + 78px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+
+
+/* social_icons */
+
+position: absolute;
+width: 130px;
+height: 30px;
+left: 1070px;
+top: 90px;
+
+
+
+/* Instagram */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1170px;
+top: 90px;
+
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 81.25%;
+right: 16.67%;
+top: 36.14%;
+bottom: 51.81%;
+
+background: #FFFFFF;
+
+
+/* back */
+
+position: absolute;
+left: 81.25%;
+right: 16.67%;
+top: 36.14%;
+bottom: 51.81%;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 81.74%;
+right: 17.15%;
+top: 38.96%;
+bottom: 54.62%;
+
+background: #FFFFFF;
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 81.84%;
+right: 17.25%;
+top: 39.53%;
+bottom: 55.2%;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 81.84%;
+right: 17.25%;
+top: 39.53%;
+bottom: 55.2%;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 82.52%;
+right: 17.35%;
+top: 40.07%;
+bottom: 59.16%;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 82.01%;
+right: 17.42%;
+top: 40.52%;
+bottom: 56.18%;
+
+background: #FFFFFF;
+
+
+/* Shape */
+
+position: absolute;
+left: 82.11%;
+right: 17.52%;
+top: 41.1%;
+bottom: 56.76%;
+
+background: #FFFFFF;
+
+
+/* Twitter */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1120px;
+top: 90px;
+
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 77.78%;
+right: 20.14%;
+top: 36.14%;
+bottom: 51.81%;
+
+background: #FFFFFF;
+
+
+/* back */
+
+position: absolute;
+left: 77.78%;
+right: 20.14%;
+top: 36.14%;
+bottom: 51.81%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 78.3%;
+right: 20.69%;
+top: 39.76%;
+bottom: 55.42%;
+
+background: #FFFFFF;
+
+
+/* Facebook */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1070px;
+top: 90px;
+
+
+
+/* Combined Shape */
+
+position: absolute;
+left: 74.31%;
+right: 23.61%;
+top: 36.14%;
+bottom: 51.81%;
+
+background: #FFFFFF;
+
+
+/* Facebook */
+
+position: absolute;
+left: 74.31%;
+right: 23.61%;
+top: 36.14%;
+bottom: 51.81%;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+left: 75.07%;
+right: 24.4%;
+top: 38.96%;
+bottom: 54.49%;
+
+background: #FFFFFF;
+
+
+/* part_4_FAQ */
+
+position: absolute;
+width: 920px;
+height: 707px;
+left: 249px;
+top: 2678px;
+
+
+
+/* F.A.Q. */
+
+position: absolute;
+height: 75px;
+left: 44.24%;
+right: 40.98%;
+top: calc(50% - 75px/2 - 316px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 60px;
+line-height: 75px;
+text-align: center;
+
+color: #071629;
+
+
+
+/* Q_1 */
+
+position: absolute;
+left: 0%;
+right: 61.96%;
+top: 21.07%;
+bottom: 44.7%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 192px;
+left: 0%;
+right: 0%;
+top: calc(50% - 192px/2 + 25px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+color: rgba(7, 22, 41, 0.501584);
+
+
+
+/* How does this work? */
+
+position: absolute;
+height: 20px;
+left: 0%;
+right: 58.57%;
+top: calc(50% - 20px/2 - 111px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #071629;
+
+
+
+/* Q_3 */
+
+position: absolute;
+left: 0%;
+right: 61.96%;
+top: 65.77%;
+bottom: 0%;
+
+
+
+/* Lorem ipsum dolor si Copy */
+
+position: absolute;
+height: 192px;
+left: 0%;
+right: 0%;
+top: calc(50% - 192px/2 + 25px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+color: rgba(7, 22, 41, 0.501584);
+
+
+
+/* How does this work? */
+
+position: absolute;
+height: 20px;
+left: 0%;
+right: 58.57%;
+top: calc(50% - 20px/2 - 111px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #071629;
+
+
+
+/* Q_2 */
+
+position: absolute;
+left: 61.96%;
+right: 0%;
+top: 21.07%;
+bottom: 44.7%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 192px;
+left: 0%;
+right: 0%;
+top: calc(50% - 192px/2 + 25px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+color: rgba(7, 22, 41, 0.501584);
+
+
+
+/* How does this work? */
+
+position: absolute;
+height: 20px;
+left: 0%;
+right: 58.57%;
+top: calc(50% - 20px/2 - 111px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #071629;
+
+
+
+/* Q_4 */
+
+position: absolute;
+left: 61.96%;
+right: 0%;
+top: 65.77%;
+bottom: 0%;
+
+
+
+/* Lorem ipsum dolor si Copy 2 */
+
+position: absolute;
+height: 192px;
+left: 0%;
+right: 0%;
+top: calc(50% - 192px/2 + 25px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+color: rgba(7, 22, 41, 0.501584);
+
+
+
+/* How does this work? */
+
+position: absolute;
+height: 20px;
+left: 0%;
+right: 58.57%;
+top: calc(50% - 20px/2 - 111px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #071629;
+
+
+
+/* part_3_free_membership */
+
+position: absolute;
+width: 1440px;
+height: 502px;
+left: 0px;
+top: 2109px;
+
+
+
+/* background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #071629;
+
+
+/* Free membership */
+
+position: absolute;
+height: 40px;
+left: 42.85%;
+right: 40.9%;
+top: calc(50% - 40px/2 - 161px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #C271FF;
+
+
+
+/* button */
+
+position: absolute;
+left: 44.38%;
+right: 44.38%;
+top: 80.88%;
+bottom: 10.36%;
+
+filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+
+
+/* button_background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #C271FF;
+border-radius: 22px;
+
+
+/* REGISTER FOR FREE */
+
+position: absolute;
+height: 18px;
+left: 13.27%;
+right: 12.04%;
+top: calc(50% - 18px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* dot_1 */
+
+position: absolute;
+left: 11.39%;
+right: 70.76%;
+top: 33.47%;
+bottom: 36.06%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 52px;
+left: 8.75%;
+right: 8.75%;
+top: calc(50% - 52px/2 + 50.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+height: 26px;
+left: 0.19%;
+right: 0.19%;
+top: calc(50% - 26px/2 - 1.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 43.67px;
+height: 35.35px;
+left: 106.71px;
+top: 0.03px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 43.58%;
+right: 52.75%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 52.32%;
+right: 44.01%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 41.52%;
+right: 41.87%;
+top: 12.82%;
+bottom: 80.22%;
+
+background: #C271FF;
+transform: rotate(-7deg);
+
+
+/* dot_2 */
+
+position: absolute;
+left: 31.11%;
+right: 51.04%;
+top: 33.47%;
+bottom: 36.06%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 52px;
+left: 7%;
+right: 7%;
+top: calc(50% - 52px/2 + 50.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+height: 26px;
+left: 0.19%;
+right: 0.19%;
+top: calc(50% - 26px/2 - 1.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 43.67px;
+height: 35.35px;
+left: 106.71px;
+top: 0.03px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 43.58%;
+right: 52.75%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 52.32%;
+right: 44.01%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 41.52%;
+right: 41.87%;
+top: 12.82%;
+bottom: 80.22%;
+
+background: #C271FF;
+transform: rotate(-7deg);
+
+
+/* dot_3 */
+
+position: absolute;
+left: 50.9%;
+right: 31.25%;
+top: 33.47%;
+bottom: 36.06%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 52px;
+left: 8.17%;
+right: 8.17%;
+top: calc(50% - 52px/2 + 50.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+height: 26px;
+left: 0.19%;
+right: 0.19%;
+top: calc(50% - 26px/2 - 1.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 43.67px;
+height: 35.35px;
+left: 106.71px;
+top: 0.03px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 43.58%;
+right: 52.75%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 52.32%;
+right: 44.01%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 41.52%;
+right: 41.87%;
+top: 12.82%;
+bottom: 80.22%;
+
+background: #C271FF;
+transform: rotate(-7deg);
+
+
+/* dot_4 */
+
+position: absolute;
+left: 70.76%;
+right: 11.39%;
+top: 33.47%;
+bottom: 36.06%;
+
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 52px;
+left: 8.17%;
+right: 8.17%;
+top: calc(50% - 52px/2 + 50.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* or 186% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Lorem ipsum */
+
+position: absolute;
+height: 26px;
+left: 0.19%;
+right: 0.19%;
+top: calc(50% - 26px/2 - 1.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height, or 144% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* smile */
+
+position: absolute;
+width: 43.67px;
+height: 35.35px;
+left: 106.71px;
+top: 0.03px;
+
+
+
+/* Path */
+
+position: absolute;
+left: 43.58%;
+right: 52.75%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 52.32%;
+right: 44.01%;
+top: 0.02%;
+bottom: 90.69%;
+
+background: #C271FF;
+
+
+/* Path */
+
+position: absolute;
+left: 41.52%;
+right: 41.87%;
+top: 12.82%;
+bottom: 80.22%;
+
+background: #C271FF;
+transform: rotate(-7deg);
+
+
+/* part_2_tutorials */
+
+position: absolute;
+width: 1228px;
+height: 450px;
+left: 106px;
+top: 1572px;
+
+
+
+/* Most popular tutoria */
+
+position: absolute;
+height: 40px;
+left: 39.25%;
+right: 36.81%;
+top: calc(50% - 40px/2 - 205px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 300;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #071629;
+
+
+
+/* tuto_1 */
+
+position: absolute;
+left: 4.72%;
+right: 74.51%;
+top: 25.56%;
+bottom: 0%;
+
+
+
+/* background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.178458);
+border-radius: 5px;
+
+
+/* avatar */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 13px;
+top: 261px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: #FFFFFF;
+
+
+/* 1 */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: url(Image);
+
+
+/* Phillip Massey */
+
+position: absolute;
+height: 27px;
+left: 21.96%;
+right: 44.31%;
+top: calc(50% - 27px/2 + 109px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+/* identical to box height, or 193% */
+
+color: #C271FF;
+
+
+
+/* 8 min */
+
+position: absolute;
+height: 27px;
+left: 78.04%;
+right: 8.63%;
+top: calc(50% - 27px/2 + 143px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+/* identical to box height, or 193% */
+text-align: right;
+
+color: #C271FF;
+
+
+
+/* rating */
+
+position: absolute;
+width: 107px;
+height: 15px;
+left: 13px;
+top: 305px;
+
+
+
+/* Star_1 */
+
+position: absolute;
+left: 5.1%;
+right: 89.02%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_2 */
+
+position: absolute;
+left: 14.12%;
+right: 80%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_3 */
+
+position: absolute;
+left: 23.14%;
+right: 70.98%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_4 */
+
+position: absolute;
+left: 32.16%;
+right: 61.96%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_5 */
+
+position: absolute;
+left: 41.18%;
+right: 52.94%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #D8D8D8;
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 48px;
+left: 5.1%;
+right: 0%;
+top: calc(50% - 48px/2 + 56.1px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+color: rgba(7, 22, 41, 0.501584);
+
+
+
+/* Diagonal Smile */
+
+position: absolute;
+height: 20px;
+left: 5.1%;
+right: 53.33%;
+top: calc(50% - 20px/2 + 14.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #071629;
+
+
+
+/* preview */
+
+position: absolute;
+width: 255px;
+height: 154px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.03%;
+
+background: #D8D8D8;
+border-radius: 5px 5px 0px 0px;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.03%;
+
+background: #D8D8D8;
+border-radius: 5px 5px 0px 0px;
+
+
+/* Bitmap */
+
+position: absolute;
+left: -138.43%;
+right: -83.53%;
+top: -86.27%;
+bottom: -181.49%;
+
+background: url(Image.png);
+
+
+/* play */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 96px;
+top: 45px;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 37.65%;
+right: 37.25%;
+top: 13.43%;
+bottom: 67.46%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.86;
+
+
+/* Triangle */
+
+position: absolute;
+left: 48.43%;
+right: 45.29%;
+top: 20.75%;
+bottom: 75.37%;
+
+background: #C271FF;
+transform: rotate(90deg);
+
+
+/* tuto_2 */
+
+position: absolute;
+left: 28.01%;
+right: 51.22%;
+top: 25.56%;
+bottom: 0%;
+
+
+
+/* background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.178458);
+border-radius: 5px;
+
+
+/* avatar */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 13px;
+top: 261px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: #FFFFFF;
+
+
+/* 1 */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: url(Image);
+
+
+/* Phillip Massey */
+
+position: absolute;
+height: 27px;
+left: 21.96%;
+right: 44.31%;
+top: calc(50% - 27px/2 + 109px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+/* identical to box height, or 193% */
+
+color: #C271FF;
+
+
+
+/* 8 min */
+
+position: absolute;
+height: 27px;
+left: 78.04%;
+right: 8.63%;
+top: calc(50% - 27px/2 + 143px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+/* identical to box height, or 193% */
+text-align: right;
+
+color: #C271FF;
+
+
+
+/* rating */
+
+position: absolute;
+width: 107px;
+height: 15px;
+left: 13px;
+top: 305px;
+
+
+
+/* Star_1 */
+
+position: absolute;
+left: 5.1%;
+right: 89.02%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_2 */
+
+position: absolute;
+left: 14.12%;
+right: 80%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_3 */
+
+position: absolute;
+left: 23.14%;
+right: 70.98%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_4 */
+
+position: absolute;
+left: 32.16%;
+right: 61.96%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_5 */
+
+position: absolute;
+left: 41.18%;
+right: 52.94%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #D8D8D8;
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 48px;
+left: 5.1%;
+right: 0%;
+top: calc(50% - 48px/2 + 56.1px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+color: rgba(7, 22, 41, 0.501584);
+
+
+
+/* Sad Smile */
+
+position: absolute;
+height: 20px;
+left: 5.1%;
+right: 67.45%;
+top: calc(50% - 20px/2 + 14.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #071629;
+
+
+
+/* preview */
+
+position: absolute;
+width: 255px;
+height: 154px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.03%;
+
+background: #D8D8D8;
+border-radius: 5px 5px 0px 0px;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.03%;
+
+background: #D8D8D8;
+border-radius: 5px 5px 0px 0px;
+
+
+/* Bitmap */
+
+position: absolute;
+left: -57.65%;
+right: 0%;
+top: -69.25%;
+bottom: -10.75%;
+
+background: url(Image);
+
+
+/* play */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 96px;
+top: 45px;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 37.65%;
+right: 37.25%;
+top: 13.43%;
+bottom: 67.46%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.86;
+
+
+/* Triangle */
+
+position: absolute;
+left: 48.43%;
+right: 45.29%;
+top: 20.75%;
+bottom: 75.37%;
+
+background: #C271FF;
+transform: rotate(90deg);
+
+
+/* tuto_3 */
+
+position: absolute;
+left: 51.22%;
+right: 28.01%;
+top: 25.56%;
+bottom: 0%;
+
+
+
+/* background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.178458);
+border-radius: 5px;
+
+
+/* avatar */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 13px;
+top: 261px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: #FFFFFF;
+
+
+/* 1 */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: url(Image);
+
+
+/* Phillip Massey */
+
+position: absolute;
+height: 27px;
+left: 21.96%;
+right: 44.31%;
+top: calc(50% - 27px/2 + 109px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+/* identical to box height, or 193% */
+
+color: #C271FF;
+
+
+
+/* 8 min */
+
+position: absolute;
+height: 27px;
+left: 78.04%;
+right: 8.63%;
+top: calc(50% - 27px/2 + 143px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+/* identical to box height, or 193% */
+text-align: right;
+
+color: #C271FF;
+
+
+
+/* rating */
+
+position: absolute;
+width: 107px;
+height: 15px;
+left: 13px;
+top: 305px;
+
+
+
+/* Star_1 */
+
+position: absolute;
+left: 5.1%;
+right: 89.02%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_2 */
+
+position: absolute;
+left: 14.12%;
+right: 80%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_3 */
+
+position: absolute;
+left: 23.14%;
+right: 70.98%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_4 */
+
+position: absolute;
+left: 32.16%;
+right: 61.96%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_5 */
+
+position: absolute;
+left: 41.18%;
+right: 52.94%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #D8D8D8;
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 48px;
+left: 5.1%;
+right: 0%;
+top: calc(50% - 48px/2 + 56.1px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+color: rgba(7, 22, 41, 0.501584);
+
+
+
+/* Natural Smile */
+
+position: absolute;
+height: 20px;
+left: 5.1%;
+right: 56.86%;
+top: calc(50% - 20px/2 + 14.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #071629;
+
+
+
+/* preview */
+
+position: absolute;
+width: 255px;
+height: 154px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.03%;
+
+background: #D8D8D8;
+border-radius: 5px 5px 0px 0px;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.03%;
+
+background: #D8D8D8;
+border-radius: 5px 5px 0px 0px;
+
+
+/* Bitmap */
+
+position: absolute;
+left: -1.44%;
+right: -0.92%;
+top: -35.52%;
+bottom: 18.81%;
+
+background: url(Image);
+
+
+/* play */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 96px;
+top: 45px;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 37.65%;
+right: 37.25%;
+top: 13.43%;
+bottom: 67.46%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.86;
+
+
+/* Triangle */
+
+position: absolute;
+left: 48.43%;
+right: 45.29%;
+top: 20.75%;
+bottom: 75.37%;
+
+background: #C271FF;
+transform: rotate(90deg);
+
+
+/* tuto_4 */
+
+position: absolute;
+left: 74.43%;
+right: 4.8%;
+top: 25.56%;
+bottom: 0%;
+
+
+
+/* background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.178458);
+border-radius: 5px;
+
+
+/* avatar */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 13px;
+top: 261px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: #FFFFFF;
+
+
+/* 1 */
+
+position: absolute;
+left: 5.1%;
+right: 83.14%;
+top: 77.91%;
+bottom: 13.13%;
+
+background: url(Image);
+
+
+/* Phillip Massey */
+
+position: absolute;
+height: 27px;
+left: 21.96%;
+right: 44.31%;
+top: calc(50% - 27px/2 + 109px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+/* identical to box height, or 193% */
+
+color: #C271FF;
+
+
+
+/* 8 min */
+
+position: absolute;
+height: 27px;
+left: 78.04%;
+right: 8.63%;
+top: calc(50% - 27px/2 + 143px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 27px;
+/* identical to box height, or 193% */
+text-align: right;
+
+color: #C271FF;
+
+
+
+/* rating */
+
+position: absolute;
+width: 107px;
+height: 15px;
+left: 13px;
+top: 305px;
+
+
+
+/* Star_1 */
+
+position: absolute;
+left: 5.1%;
+right: 89.02%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_2 */
+
+position: absolute;
+left: 14.12%;
+right: 80%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_3 */
+
+position: absolute;
+left: 23.14%;
+right: 70.98%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_4 */
+
+position: absolute;
+left: 32.16%;
+right: 61.96%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #C271FF;
+
+
+/* Star_5 */
+
+position: absolute;
+left: 41.18%;
+right: 52.94%;
+top: 91.04%;
+bottom: 4.48%;
+
+background: #D8D8D8;
+
+
+/* Lorem ipsum dolor si */
+
+position: absolute;
+height: 48px;
+left: 5.1%;
+right: 0%;
+top: calc(50% - 48px/2 + 56.1px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+color: rgba(7, 22, 41, 0.501584);
+
+
+
+/* Happy Smile */
+
+position: absolute;
+height: 20px;
+left: 5.1%;
+right: 60%;
+top: calc(50% - 20px/2 + 14.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+
+color: #071629;
+
+
+
+/* preview */
+
+position: absolute;
+width: 255px;
+height: 154px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.03%;
+
+background: #D8D8D8;
+border-radius: 5px 5px 0px 0px;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 54.03%;
+
+background: #D8D8D8;
+border-radius: 5px 5px 0px 0px;
+
+
+/* Bitmap */
+
+position: absolute;
+left: -1.44%;
+right: -0.92%;
+top: -35.52%;
+bottom: 18.81%;
+
+background: url(Image);
+
+
+/* Bitmap */
+
+position: absolute;
+left: -43.33%;
+right: -70.78%;
+top: -31.34%;
+bottom: 22.69%;
+
+background: url(Image);
+
+
+/* play */
+
+position: absolute;
+width: 64px;
+height: 64px;
+left: 96px;
+top: 45px;
+
+
+
+/* Oval */
+
+position: absolute;
+left: 37.65%;
+right: 37.25%;
+top: 13.43%;
+bottom: 67.46%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.86;
+
+
+/* Triangle */
+
+position: absolute;
+left: 48.43%;
+right: 45.29%;
+top: 20.75%;
+bottom: 75.37%;
+
+background: #C271FF;
+transform: rotate(90deg);
+
+
+/* part_1_testimonials */
+
+position: absolute;
+width: 1440px;
+height: 392px;
+left: -1px;
+top: 1093px;
+
+
+
+/* background */
+
+position: absolute;
+width: 1440px;
+height: 392px;
+left: -1px;
+top: 1093px;
+
+background: #C271FF;
+
+
+/* testimonial */
+
+position: absolute;
+width: 943px;
+height: 160px;
+left: 259px;
+top: 1201px;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 160px;
+height: 160px;
+left: 259px;
+top: 1201px;
+
+
+
+/* mask */
+
+position: absolute;
+width: 160px;
+height: 160px;
+left: 259px;
+top: 1201px;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+width: 160px;
+height: 160px;
+left: 259px;
+top: 1201px;
+
+background: #FFFFFF;
+
+
+/* Bitmap */
+
+position: absolute;
+width: 394px;
+height: 341px;
+left: 142px;
+top: 1176px;
+
+background: url(Image);
+
+
+/* text */
+
+position: absolute;
+width: 730px;
+height: 158px;
+left: 472px;
+top: 1203px;
+
+
+
+/* weather presenter */
+
+position: absolute;
+height: 34px;
+left: 0%;
+right: 77.4%;
+top: calc(50% - 34px/2 + 62px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 22px;
+line-height: 34px;
+/* identical to box height, or 153% */
+
+color: #FFFFFF;
+
+
+
+/* Person Name */
+
+position: absolute;
+height: 34px;
+left: 0%;
+right: 82.33%;
+top: calc(50% - 34px/2 + 28px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 34px;
+/* identical to box height, or 153% */
+
+color: #FFFFFF;
+
+
+
+/* « Those tutorials ar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 56.96%;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 34px;
+/* or 153% */
+
+color: #FFFFFF;
+
+
+
+/* main_part */
+
+position: absolute;
+width: 1440px;
+height: 1093px;
+left: 0px;
+top: 0px;
+
+
+
+/* background */
+
+position: absolute;
+width: 1440px;
+height: 1093px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #071629;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #071629;
+
+
+/* Object */
+
+position: absolute;
+width: 1448.15px;
+height: 1055px;
+left: -4.08px;
+top: -66px;
+
+
+
+/* Bitmap */
+
+position: absolute;
+left: -0.28%;
+right: -0.28%;
+top: -6.04%;
+bottom: 9.52%;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+left: -0.28%;
+right: -0.28%;
+top: -6.04%;
+bottom: 9.52%;
+
+background: url(Image.png);
+
+
+/* Bitmap */
+
+position: absolute;
+left: -0.28%;
+right: -0.28%;
+top: -6.04%;
+bottom: 9.52%;
+
+background: radial-gradient(85.9% 85.9% at 50% 14.1%, rgba(41, 48, 61, 0.0001) 0%, #071629 100%), #000000;
+background-blend-mode: normal, color;
+
+
+/* Get schooled */
+
+position: absolute;
+height: 151px;
+left: 26.18%;
+right: 26.32%;
+top: calc(50% - 151px/2 - 251px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 120px;
+line-height: 151px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* SMILES */
+
+position: absolute;
+height: 20px;
+left: 41.18%;
+right: 55.21%;
+top: calc(50% - 20px/2 - 175.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* GRIN */
+
+position: absolute;
+height: 20px;
+left: 48.89%;
+right: 48.61%;
+top: calc(50% - 20px/2 - 175.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* LAUGH */
+
+position: absolute;
+height: 20px;
+left: 55.35%;
+right: 41.25%;
+top: calc(50% - 20px/2 - 175.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Button */
+
+position: absolute;
+left: 44.38%;
+right: 44.38%;
+top: 38.33%;
+bottom: 57.64%;
+
+filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+
+
+/* button_background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #C271FF;
+border-radius: 22px;
+
+
+/* REGISTER FOR FREE */
+
+position: absolute;
+height: 18px;
+left: 12.35%;
+right: 12.96%;
+top: calc(50% - 18px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Learn from the pros */
+
+position: absolute;
+height: 40px;
+left: 41.94%;
+right: 39.93%;
+top: calc(50% - 40px/2 + 104.5px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #C271FF;
+
+
+
+/* pros */
+
+position: absolute;
+width: 1009px;
+height: 237px;
+left: 217px;
+top: 758px;
+
+
+
+/* pro_4 */
+
+position: absolute;
+left: 74.72%;
+right: 14.86%;
+top: 69.35%;
+bottom: 8.97%;
+
+
+
+/* Henry Hughes */
+
+position: absolute;
+height: 27px;
+left: 0%;
+right: 0%;
+top: calc(50% - 27px/2 + 55px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* « 24h smiles » winne */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: calc(50% - 48px/2 + 94.5px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* 8 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: url(Image);
+
+
+/* pro_3 */
+
+position: absolute;
+left: 54.65%;
+right: 34.93%;
+top: 69.35%;
+bottom: 8.97%;
+
+
+
+/* Bruce Walters */
+
+position: absolute;
+height: 27px;
+left: 0%;
+right: 0%;
+top: calc(50% - 27px/2 + 55px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Best « Friend Smile */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: calc(50% - 48px/2 + 94.5px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* 7 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0.06%;
+bottom: 36.71%;
+
+background: url(Image);
+
+
+/* pro_2 */
+
+position: absolute;
+left: 35.14%;
+right: 54.44%;
+top: 69.35%;
+bottom: 8.97%;
+
+
+
+/* Nannie Lawrence */
+
+position: absolute;
+height: 27px;
+left: 0%;
+right: 0%;
+top: calc(50% - 27px/2 + 55px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Best « little smile */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: calc(50% - 48px/2 + 94.5px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* 6 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: url(Image);
+
+
+/* pro_1 */
+
+position: absolute;
+left: 15.07%;
+right: 74.51%;
+top: 69.35%;
+bottom: 8.97%;
+
+
+
+/* Phillip Massey */
+
+position: absolute;
+height: 27px;
+left: 0%;
+right: 0%;
+top: calc(50% - 27px/2 + 55px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* « Smile of the year */
+
+position: absolute;
+height: 48px;
+left: 0%;
+right: 0%;
+top: calc(50% - 48px/2 + 94.5px);
+
+font-family: 'Source Sans Pro';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* avatar */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 0px;
+top: 0px;
+
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* mask */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: #FFFFFF;
+
+
+/* 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 36.71%;
+
+background: url(Image);
+
+
+/* header */
+
+position: absolute;
+width: 1103.41px;
+height: 29.46px;
+left: 171.59px;
+top: 35.02px;
+
+
+
+/* logo */
+
+position: absolute;
+width: 167.02px;
+height: 29.46px;
+left: 171.59px;
+top: 35.02px;
+
+
+
+/* SmileSchool */
+
+position: absolute;
+width: 111.83px;
+height: 12.58px;
+left: 226.77px;
+top: 41.54px;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+width: 10.85px;
+height: 12.58px;
+left: 226.77px;
+top: 41.54px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 14.47px;
+height: 8.59px;
+left: 239.45px;
+top: 45.41px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 3.92px;
+height: 2.74px;
+left: 255.56px;
+top: 41.54px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 3.87px;
+height: 8.59px;
+left: 255.59px;
+top: 45.41px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 3.96px;
+height: 12.33px;
+left: 261.1px;
+top: 41.67px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 9.32px;
+height: 8.82px;
+left: 266.61px;
+top: 45.29px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 1.84px;
+height: 2.12px;
+left: 270.44px;
+top: 46.84px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 10.85px;
+height: 12.58px;
+left: 277.37px;
+top: 41.54px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 9.31px;
+height: 8.84px;
+left: 289.83px;
+top: 45.29px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 9.56px;
+height: 12.42px;
+left: 300.72px;
+top: 41.58px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 9.97px;
+height: 8.84px;
+left: 311.81px;
+top: 45.29px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 1.91px;
+height: 4.66px;
+left: 315.84px;
+top: 47.38px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 9.97px;
+height: 8.84px;
+left: 323.16px;
+top: 45.29px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 1.91px;
+height: 4.66px;
+left: 327.2px;
+top: 47.38px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 3.96px;
+height: 12.33px;
+left: 334.65px;
+top: 41.67px;
+
+
+
+/* Path */
+
+position: absolute;
+width: 7.87px;
+height: 11.85px;
+left: 175.99px;
+top: 35.02px;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+width: 7.87px;
+height: 11.85px;
+left: 194.71px;
+top: 35.02px;
+
+background: #FFFFFF;
+
+
+/* Path */
+
+position: absolute;
+width: 35.57px;
+height: 8.87px;
+left: 171.59px;
+top: 51.35px;
+
+background: #FFFFFF;
+transform: rotate(-7deg);
+
+
+/* menu */
+
+position: absolute;
+width: 234px;
+height: 15px;
+left: 1041px;
+top: 37px;
+
+
+
+/* COURSES */
+
+position: absolute;
+height: 15px;
+left: 0%;
+right: 78.63%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* PRICING */
+
+position: absolute;
+height: 15px;
+left: 43.59%;
+right: 37.18%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* LOGIN */
+
+position: absolute;
+height: 15px;
+left: 85.47%;
+right: 0%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #FFFFFF;
+
